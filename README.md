@@ -1,4 +1,6 @@
-## Hi there 👋
+# 🙋‍♂️ About Me  
+
+Hi, I'm **Shrey Bansal**, a third-year B.Tech undergraduate at **Manipal University Jaipur**, deeply passionate about **Web Development**, **Artificial Intelligence**, and **Machine Learning**. I thrive on solving real-world problems through development and AI innovation.
 
 <!--
 **ShreyB-007/ShreyB-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
